@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "name": "NetScanner",
+      "version": "1.0",
+      "description": "Simple network scanner tool",
+      "url": "https://raw.githubusercontent.com/luciencunha69/mini-store-repo/main/netscanner.py"
+    },
+    {
+      "name": "SysInfoPro",
+      "version": "1.0",
+      "description": "Advanced system information tool",
+      "url": "https://raw.githubusercontent.com/luciencunha69/mini-store-repo/main/sysinfo.py"
+    }
+  ]
+}
